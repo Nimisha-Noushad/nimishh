@@ -1,0 +1,38 @@
+.carousel-item{
+    width:100% ;
+  height:90% ;
+  object-fit: contain;
+}
+h1{
+    color:cadetblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    padding: 0;
+    
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.card{
+    border: none;
+}
+
+.card  .img{
+    
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top:150px;
+    
+    
+}
+.card .card-title{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.card .card-text{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
